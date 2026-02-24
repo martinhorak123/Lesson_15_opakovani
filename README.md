@@ -34,3 +34,10 @@ soubor `sifra.txt` obsahuje dva sloupce. První je index znaku v `alphabet.txt` 
 ### Postup: 
 1. Nejprve slučte sloupce 
 2. Následně ve výsledném textu nahraďte všechny `_` za `[mezera]` a výsledek vypište na jeden řádak odstraněním všech `\n` (pomocí příkaz `tr`).
+
+## Úloha 3 - Odevzdání.
+Veškeré zdrojové kódy nakcomitujde do GITu a uložte do vašeho GitHub repozitáře. 
+Do svého GitHub repozitáře uložte veškeré zdrojové soubory, které jste v průběhu úloh vytvořili, zejména:
+* shell skripty (*.sh)
+* vstupní soubory (alphabet.txt, sifra.txt, hlaskovaci_abeceda.txt, …)
+* pomocné soubory vytvořené při řešení (např. step1.txt, step2.txt)
